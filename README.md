@@ -2,6 +2,9 @@
 
 This project allows users to explore stock performance over time. It demonstrates skills in data analysis, visualization, and building interactive web apps using real-world financial data. Stock data is fetched, analyzed, and presented through an intuitive interface for informed investment decisions.
 
+## Live Demo
+Streamlit:https://stock-analysis-project-imappr5e75sby9mgsgv687n.streamlit.app
+
 ## Features
 
 - 📊 **Real-time Stock Data**: Fetch current and historical stock data
